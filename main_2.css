@@ -1,0 +1,35 @@
+nav
+{
+    height: 6000px;
+    width: 200px;
+    float: left;
+    padding: 5px;
+    line-height: 30px;
+}
+h1
+{
+color: darkblue;
+text-align: left;
+}
+body
+{
+    background-color: lightgray;
+    color: rgb(37, 29, 156);
+}
+footer
+{
+    text-align: right;
+    margin-right: 200px;
+}
+
+img 
+{
+    margin-right: 200px;
+    border: 5px dashed blue;
+}
+form
+{
+    color: darkgreen;
+    border: 5px dotted black;
+    background-color: aqua;
+}
